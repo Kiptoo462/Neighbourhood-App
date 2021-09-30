@@ -31,7 +31,7 @@ EMAIL_HOST_PASSWORD=config('EMAIL_HOST_PASSWORD')
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-0)r!344@ou3rfht7w&y)-+-$)u@l$7xu%+$&_+-s7w7b^%1s75'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
