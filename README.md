@@ -33,7 +33,7 @@ Open the application on your browser 127.0.0.1:8000
 
 
 ## Live link
-[Neighbourhood-App](https://github.com/Kiptoo462/Neighbourhood-App.git)
+[Neighbourhood-App](https://neighbourhood021.herokuapp.com/)
 
 ## BDD
      The user should be able to ;
